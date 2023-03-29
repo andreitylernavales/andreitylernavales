@@ -3,7 +3,7 @@
 
 Hi 👋 My Name is Andrei Tyler N. Navales
 ========================================
-![ge](https://user-images.githubusercontent.com/123532269/228419127-f19fd078-3d04-4e85-89a7-ceb54b344c54.gif)
+![ge](https://user-images.githubusercontent.com/123532269/228419602-285b191a-62bf-4583-b9f1-8bfc29e5064e.gif)
 
 Project manager of Code Wizards
 -------------------------------
