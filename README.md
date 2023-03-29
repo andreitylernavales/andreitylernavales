@@ -1,12 +1,14 @@
-![MasterHead](
+![ge](https://user-images.githubusercontent.com/123532269/228418681-926bb902-ee4c-4e53-8e18-64f1231b14a0.gif)
 
-Hi 👋 My name is Andrei Tyler N. Navales
+
+Hi 👋 My Name is Andrei Tyler N. Navales
 ========================================
+![ge](https://user-images.githubusercontent.com/123532269/228419127-f19fd078-3d04-4e85-89a7-ceb54b344c54.gif)
 
 Project manager of Code Wizards
 -------------------------------
 
-* 🌍  I'm based in Philippines Aurora Zamboanga del sur
+* 🌍  I'm based in Philippines Aurora Zamboanga del sur
 * ✉️  You can contact me at [andreinavales7@7gmail.com](mailto:andreinavales7@7gmail.com)
 * 🧠  I'm learning python
 * ⚡  I'm secretly admire you. Ako ray nakabalo
